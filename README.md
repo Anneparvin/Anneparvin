@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Forida Parven</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/programming-gif-25868426"/>
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hubspot.com%2Fwebsite%2Fhow-to-start-coding&psig=AOvVaw3crbQ7FaD7az0LPUKJ2OvP&ust=1696074734366000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDi9vHgz4EDFQAAAAAdAAAAABAZ"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anneparvin&label=Profile%20views&color=0e75b6&style=flat" alt="anneparvin" /> </p>
 
