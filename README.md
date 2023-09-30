@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anneparvin&label=Profile%20views&color=0e75b6&style=flat" alt="anneparvin" /> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/forida-parven-anne/" target="blank"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="Forida" /></a> </p>
+
 - 🔭 I’m currently working on **MERN stack web development.**
 
 - 🌱 I’m currently learning **Redux, Next.js, Typescript**
@@ -26,11 +28,6 @@
 
 - ⚡ Fun fact **"🏞️ Hiker by day, coder by night! ⌨️"**
 
-
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 ## 🌐 Connect With Me:
