@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Forida Parven</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.hubspot.com%2Fwebsite%2Fhow-to-start-coding&psig=AOvVaw3crbQ7FaD7az0LPUKJ2OvP&ust=1696074734366000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDi9vHgz4EDFQAAAAAdAAAAABAZ"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anneparvin&label=Profile%20views&color=0e75b6&style=flat" alt="anneparvin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anneparvin" alt="anneparvin" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 *** 👨‍💻 About Me
 
@@ -28,6 +23,14 @@
 
 - ⚡ Fun fact **"🏞️ Hiker by day, coder by night! ⌨️"**
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anneparvin&label=Profile%20views&color=0e75b6&style=flat" alt="anneparvin" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anneparvin" alt="anneparvin" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/forida-parven-anne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="forida-parven-anne" height="30" width="40" /></a>
@@ -43,3 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anneparvin&show_icons=true&locale=en" alt="anneparvin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anneparvin&" alt="anneparvin" /></p>
+
