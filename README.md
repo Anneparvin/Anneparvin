@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Forida Parven</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
+<img width="1000" align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc"></img>
 
+<p align="left"> <a href="https://www.linkedin.com/in/forida-parven-anne/" target="blank"><img width="100" src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/illustrations/dsk-e6.svg.original.svg" alt="forida" /></a> </p>
 
 
 *** 👨‍💻 About Me
